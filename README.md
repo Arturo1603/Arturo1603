@@ -1,4 +1,4 @@
-### Hi there 👋
+### <h1 align="center">Hi there 👋</h1>
 
 <h2 align="left">Hi 👋! My name is Arturo Chaparro and I'm a developer from Perú.<br><br>I love working on challenging projects and learning new technologies. I'm always on the lookout for opportunities to collaborate on interesting projects and contribute to the developer community.</h2>
 
